@@ -8,13 +8,13 @@ All servers are hosted by [freenom](http://www.freenom.com/ "Freenom's homepage"
 
 # Hostnames
 
-* <ca1m-media.tk>
-* <ca1m-media.ml>
-* <ca1m-media.ga>
-* <ca1m-media.cf>
-* <ca1m-media.gq>
-* <ca1m.tk>
-* <ca1m.ml>
-* <ca1m.cf>
-* <ca1m.gq>
-* <ca1m.ga>
+* [ca1m-media.tk](ca1m-media.tk)
+* [ca1m-media.ml](ca1m-media.ml)
+* [ca1m-media.ga](ca1m-media.ga)
+* [ca1m-media.cf](ca1m-media.cf)
+* [ca1m-media.gq](ca1m-media.gq)
+* [ca1m.tk](ca1m.tk)
+* [ca1m.ml](ca1m.ml)
+* [ca1m.cf](ca1m.cf)
+* [ca1m.gq](ca1m.gq)
+* [ca1m.ga](ca1m.ga)
