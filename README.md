@@ -4,10 +4,12 @@ ca1m media is a support resource for my media work at my high school. I'll use i
 
 # Hosting
 
-All servers are hosted by [freenom](http://www.freenom.com/ "Freenom's homepage")
+All servers are hosted by [GitHub Pages](http://www.github.io "GitHub Pages's homepage").
+All websites are from [freenom](http://www.freenom.com/ "Freenom's homepage").
 
 # Hostnames
 
+* [ca1m-py.github.io](ca1m-py.github.io)
 * [ca1m-media.tk](ca1m-media.tk)
 * [ca1m-media.ml](ca1m-media.ml)
 * [ca1m-media.ga](ca1m-media.ga)
